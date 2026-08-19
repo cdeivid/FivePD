@@ -30,7 +30,7 @@
   "maxCallsignLength": 15,
   "adminCode": "admin",
   "discord": {
-    "enable": true,
+    "enable": false,
     "token": ""
   },
   "dutyNotification": true,
